@@ -40,4 +40,4 @@ if guess == correct:
 
 print("Thanks for playing.")
 
-input("\n\nPress the enter key to exit.")
+input("Press the enter key to exit.")
